@@ -1,0 +1,4 @@
+[submodule "jenkins"]
+	path = jenkins
+	url = https://github.com/nagopstree/jenkins
+	branch = master
